@@ -1,0 +1,18 @@
+Products:
+    endpoint: '/products'
+
+Categories:
+    endpoint: '/categories'
+
+Stores:
+    endpoint: '/stores'
+
+Services:
+    endpoint: '/services'
+
+Version:
+    endpoint: '/version'
+
+Health:
+    endpoint: '/healthcheck'
+

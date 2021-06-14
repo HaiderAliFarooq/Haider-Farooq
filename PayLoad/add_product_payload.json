@@ -1,0 +1,12 @@
+{
+    "name": "Test-name",
+    "type": "testtype",
+    "price": 59.99,
+    "upc": "0867928950903",
+    "shipping": 3,
+    "description": "Keyboard testing",
+    "manufacturer": "Yamaha123",
+    "model": "EN03test",
+    "url": "http://www.bestbuy.com/site/yamaha-p32d-pianica-brown-white/9132294.p?id=1218990144149&skuId=9132294&cmp=RMXCC",
+    "image": "http://img.bbystatic.com/BestBuy_US/images/products/9132/9132294_sa.jpg"
+}
